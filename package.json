@@ -1,8 +1,7 @@
 {
 	"name": "movie-app-svelte",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://and0ri.com/movie-app-sveltekit/",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
