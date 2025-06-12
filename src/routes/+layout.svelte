@@ -4,6 +4,7 @@
 
 <svelte:head>
 	<title>Movie DB</title>
+	<meta name="robots" content="noindex, nofollow" />
 </svelte:head>
 
 <Nav />
